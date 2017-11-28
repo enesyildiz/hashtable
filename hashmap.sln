@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {E152AE55-048C-44BB-9939-8BC901CDD1CB}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashmap", "hashmap\hashmap.csproj", "{2B4FABF3-20EC-4060-8D1C-DDDAD9E74B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4FABF3-20EC-4060-8D1C-DDDAD9E74B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4FABF3-20EC-4060-8D1C-DDDAD9E74B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4FABF3-20EC-4060-8D1C-DDDAD9E74B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4FABF3-20EC-4060-8D1C-DDDAD9E74B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E152AE55-048C-44BB-9939-8BC901CDD1CB}
+	EndGlobalSection
+EndGlobal
+>>>>>>> e7b10e2310fd4c1dafcbf2e6adc58c8a960a5e04
